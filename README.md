@@ -8,5 +8,6 @@ Repositorio para subir las entregas del proyecto final para la materia de Intera
 | Nombre             | Foto                   
 | ------------------ | --------------------- |
 | Ordaz Osorio Herve  |  | 
-| Pool Flores Endrick   |         | 
-| Nombre Apellido 3  |            | 
+| Pool Flores Endrick   |  | 
+| Cristóbal Franco Jairo Josué  |   | 
+|   |   |     
