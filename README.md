@@ -7,7 +7,7 @@ Repositorio para subir las entregas del proyecto final para la materia de Intera
 
 | Nombre             | Foto                   
 | ------------------ | --------------------- |
-| Ordaz Osorio Herve  |  | 
-| Pool Flores Endrick   |  | 
-| Cristóbal Franco Jairo Josué  |   | 
-|   |   |     
+| Ordaz Osorio Herve  | ![Foto1](resources/Herve.jpg) | 
+| Pool Flores Endrick   | ![Foto2](resources/Endrik.jpeg) | 
+| Cristóbal Franco Jairo Josué  |![Foto3](resources/Jairo.jpeg) | 
+| Ramos Aleman Francisco| ![Foto4](resources/Francisco.jpeg)  |     
