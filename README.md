@@ -3,6 +3,7 @@ Repositorio para subir las entregas del proyecto final para la materia de Intera
 
 ¡Bienvenido a nuestro repositorio del proyecto para IHC.
 
+Link video promocional: https://www.youtube.com/watch?v=9-KJLWqQFtE
 ## Equipo
 
 | Nombre             | Foto                   
